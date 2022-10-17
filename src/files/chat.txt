@@ -1,0 +1,20 @@
+[
+  {
+    "socketID": "u0YTgw6EFC_zrI5nAAAB",
+    "timestamp": "8/12/2021 18:43:14",
+    "email": "amatiascastillo@gmail.com",
+    "message": "hola "
+  },
+  {
+    "socketID": "rrXqeLVJ20aN4upsAAAD",
+    "timestamp": "8/12/2021 18:46:57",
+    "email": "amatiascastillo@gmail.com",
+    "message": "holas"
+  },
+  {
+    "socketID": "i4V50WK_IbZW6DgxAAAD",
+    "timestamp": "11/12/2021 21:03:24",
+    "email": "amatiascastillo@gmail.com",
+    "message": "www"
+  }
+]
